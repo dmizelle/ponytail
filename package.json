@@ -16,10 +16,11 @@
   "bugs": {
     "url": "https://github.com/DietrichGebert/ponytail/issues"
   },
-  "main": "./.opencode/plugins/ponytail.mjs",
+  "main": "./index.mjs",
   "exports": {
-    ".": "./.opencode/plugins/ponytail.mjs",
-    "./plugin": "./.opencode/plugins/ponytail.mjs"
+    ".": "./index.mjs",
+    "./plugin": "./index.mjs",
+    "./server": "./index.mjs"
   },
   "files": [
     "AGENTS.md",
