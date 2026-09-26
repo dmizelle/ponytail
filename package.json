@@ -24,6 +24,7 @@
   },
   "files": [
     "AGENTS.md",
+    "index.mjs",
     "hooks/",
     "skills/",
     ".opencode/",
